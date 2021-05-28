@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `(@antoniopelusi)[https://github.com/antoniopelusi]`
+- 👋 Hi, I’m [`@antoniopelusi`](https://github.com/antoniopelusi/GamerAlley/blob/master/GamerAlley.pdf)
 - 👀 I’m interested in technology and travelling
 - 🌱 I’m currently learning software development at UniMoRe university
 - 📫 How to reach me: antoniopelusi2000@gmail.com
