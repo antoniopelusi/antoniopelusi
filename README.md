@@ -1,4 +1,6 @@
-- 👋 Hi, I’m [`@antoniopelusi`](https://github.com/antoniopelusi)
-- 👀 I’m interested in technology and travelling
-- 🌱 I’m currently learning software development at UniMoRe university
+- 👋 Hi, I am [`@antoniopelusi`](https://github.com/antoniopelusi)
+- 👀 I am interested in technology and travelling
+- 🎮 Videogames enthusiast
+- 🎓 I am a Computer Science graduate at [**Unimore**](https://www.unimore.it/), Modena (IT)
+- 🌱 Currently enrolled in the master's degree course in computer science at [**Unimore**](https://www.unimore.it/), Modena (IT)
 - 📫 How to reach me: antoniopelusi2000@gmail.com
