@@ -6,6 +6,8 @@
 
 <p>   🎮 Videogames enthusiast</p>
 
+<p>   🎸 Guitar player</p>
+
 <p>   🌐 Website: <a href="https://www.antoniopelusi.com">antoniopelusi.com</a></p>
 
 <p>   📫 How to reach me: <a href="mailto:antoniopelusi2000@gmail.com">antoniopelusi2000@gmail.com</a></p>
