@@ -4,7 +4,7 @@
 
 <p>   🌱 Currently enrolled in the master's degree course in Computer Science at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
 
-<p>   🎮 Videogames enthusiast</p>
+<p>   🕹️ Videogames enthusiast</p>
 
 <p>   🎸 Guitar player</p>
 
