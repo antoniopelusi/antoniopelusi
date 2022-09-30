@@ -1,7 +1,13 @@
-- 👋 Hi, I am [`@antoniopelusi`](https://github.com/antoniopelusi)
-- 👀 I am interested in technology and travelling
-- 🎮 Videogames enthusiast
-- 🎓 I am a Computer Science graduate at [**Unimore**](https://www.unimore.it/), Modena (IT)
-- 🌱 Currently enrolled in the master's degree course in Computer Science at [**Unimore**](https://www.unimore.it/), Modena (IT)
-- 🌐 Website: [**antoniopelusi.com**](https://www.antoniopelusi.com)
-- 📫 How to reach me: antoniopelusi2000@gmail.com
+<p>   👋 Hi, I am  <a href="https://github.com/antoniopelusi">@antoniopelusi</a></p>
+
+<p>   🎓 I am a Computer Science graduate at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
+
+<p>   🌱 Currently enrolled in the master's degree course in Computer Science at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
+
+<p>   🎮 Videogames enthusiast</p>
+
+<p>   🌐 Website: <a href="https://www.antoniopelusi.com">antoniopelusi.com</a></p>
+
+<p>   📫 How to reach me: <a href="mailto:antoniopelusi2000@gmail.com">antoniopelusi2000@gmail.com</a></p>
+
+<img src="https://raw.githubusercontent.com/antoniopelusi/antoniopelusi/master/waves.svg" width="100%" height="150">
