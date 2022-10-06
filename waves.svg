@@ -18,7 +18,6 @@
 
   <style>
     .waves {
-      transform: rotate(180deg);
       position: absolute;
       bottom: 0;
       width: 100%;
