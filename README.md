@@ -9,7 +9,7 @@
 <p>   🎸 Guitar player</p>
 
 <p align="right">
-<a href= "https://www.antoniopelusi.com"><img src="https://img.icons8.com/color/32/internet--v2.png"/></a>
+<a href= "https://www.antoniopelusi.com"><img src="https://img.icons8.com/color/32/globe.png"/></a>
 <a href= "https://twitter.com/antopelusi"><img src="https://img.icons8.com/color/32/twitter.png"/></a>
 <a href= "mailto:antoniopelusi2000@gmail.com"><img src="https://img.icons8.com/color/32/secured-letter.png"/></a>
 </p>
