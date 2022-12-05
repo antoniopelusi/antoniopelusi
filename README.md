@@ -14,4 +14,4 @@
 <a href= "mailto:antoniopelusi2000@gmail.com"><img src="https://cdn-icons-png.flaticon.com/32/408/408162.png"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/antoniopelusi/antoniopelusi/master/waves.svg" width="100%" height="150">
+<img src="/resources/waves.svg" width="100%" height="150">
