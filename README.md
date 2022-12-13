@@ -8,8 +8,6 @@
 
 <p>   🎸 Guitar player</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopelusi&layout=compact)](https://github.com/antoniopelusi/github-readme-stats)
-
 <p align="right">
 <a href= "https://www.antoniopelusi.com"><img src="/resources/website.png"/></a>
 <a href= "https://twitter.com/antopelusi"><img src="/resources/twitter.png"/></a>
