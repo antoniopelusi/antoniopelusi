@@ -2,7 +2,7 @@
 
 <p>   🎓 I am a Computer Science graduate at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
 
-<p>   🌱 Currently enrolled in the Master's Degree course in Computer Science at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
+<p>   🌱 Currently enrolled in the Bachelor's Degree course in Computer Science at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
 
 <p>   🕹️ Videogames enthusiast</p>
 
