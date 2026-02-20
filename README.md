@@ -3,9 +3,9 @@
 <p>Ph.D. student in Computer Science and Mathematics of Computation</p>
 
 <p align="right">
-  <a href= "https://www.antoniopelusi.com/"><img src="resources/website.svg" style="width: 32px; height: 32px;"/></a>
+  <a href= "https://antoniopelusi.github.io/"><img src="resources/website.svg" style="width: 32px; height: 32px;"/></a>
   &nbsp;
-  <a href= "https://www.antoniopelusi.com/cv/"><img src="resources/cv.svg" style="width: 32px; height: 32px;"/></a>
+  <a href= "https://antoniopelusi.github.io/cv/"><img src="resources/cv.svg" style="width: 32px; height: 32px;"/></a>
   &nbsp;
   <a href= "https://www.linkedin.com/in/antoniopelusi/"><img src="resources/linkedin.svg" style="width: 32px; height: 32px;"/></a>
   &nbsp;
