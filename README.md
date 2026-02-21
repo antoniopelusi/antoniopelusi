@@ -1,4 +1,4 @@
-<h3><img src="/resources/hi.gif" width="20"> Hi, I am <b>@antoniopelusi</b></h3>
+<img src="/resources/hi.gif" width="20"> Hi, I am <b>@antoniopelusi</b>
 
 <p>Ph.D. student in Computer Science and Mathematics of Computation</p>
 
