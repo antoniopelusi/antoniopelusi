@@ -17,7 +17,8 @@
   <a href="https://scholar.google.com/citations?user=3BgZo94AAAAJ"><img src="resources/scholar.svg" width="32" height="32" align="absmiddle" alt="Google Scholar" /></a>
   &nbsp;
   <a href="https://orcid.org/0009-0006-0807-4364"><img src="resources/orcid.svg" width="32" height="32" align="absmiddle" alt="ORCID" /></a>
-    <a href="https://huggingface.co/antoniopelusi"><img src="resources/huggingface.svg" width="32" height="32" align="absmiddle" alt="Hugging Face" /></a>
+  &nbsp;
+  <a href="https://huggingface.co/antoniopelusi"><img src="resources/huggingface.svg" width="32" height="32" align="absmiddle" alt="Hugging Face" /></a>
 
 </p>
 
