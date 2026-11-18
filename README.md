@@ -10,13 +10,15 @@
   &nbsp;
   <a href="https://antoniopelusi.github.io/cv/"><img src="resources/cv.svg" width="32" height="32" align="absmiddle" alt="CV" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/antoniopelusi/"><img src="resources/linkedin.svg" width="32" height="32" align="absmiddle" alt="LinkedIn" /></a>
-  &nbsp;
   <a href="mailto:antoniopelusi2000@gmail.com"><img src="resources/email.svg" width="32" height="32" align="absmiddle" alt="Email" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/antoniopelusi/"><img src="resources/linkedin.svg" width="32" height="32" align="absmiddle" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://scholar.google.com/citations?user=3BgZo94AAAAJ"><img src="resources/scholar.svg" width="32" height="32" align="absmiddle" alt="Google Scholar" /></a>
   &nbsp;
   <a href="https://orcid.org/0009-0006-0807-4364"><img src="resources/orcid.svg" width="32" height="32" align="absmiddle" alt="ORCID" /></a>
+    <a href="https://huggingface.co/antoniopelusi"><img src="resources/huggingface.svg" width="32" height="32" align="absmiddle" alt="Hugging Face" /></a>
+
 </p>
 
 <img src="resources/waves.svg" width="100%" height="150" alt="Waves" />
